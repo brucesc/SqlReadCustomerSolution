@@ -1,0 +1,9 @@
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\bin\Debug\TestSqlReadCustomer.exe.config
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\bin\Debug\TestSqlReadCustomer.exe
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\bin\Debug\TestSqlReadCustomer.pdb
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\bin\Debug\SqlReadCustomer.dll
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\bin\Debug\SqlReadCustomer.pdb
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\obj\Debug\TestSqlReadCustomer.csprojResolveAssemblyReference.cache
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\obj\Debug\TestSqlReadCustomer.csproj.CoreCompileInputs.cache
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\obj\Debug\TestSqlReadCustomer.exe
+C:\repos\C#\SqlReadCustomerSolution\TestSqlReadCustomer\obj\Debug\TestSqlReadCustomer.pdb

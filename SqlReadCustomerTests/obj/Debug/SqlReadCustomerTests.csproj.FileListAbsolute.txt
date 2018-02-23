@@ -1,0 +1,15 @@
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\SqlReadCustomerTests.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\SqlReadCustomerTests.pdb
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\SqlReadCustomer.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\SqlReadCustomer.pdb
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\obj\Debug\SqlReadCustomerTests.csprojResolveAssemblyReference.cache
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\obj\Debug\SqlReadCustomerTests.csproj.CoreCompileInputs.cache
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\obj\Debug\SqlReadCustomerTests.dll
+C:\repos\C#\SqlReadCustomerSolution\SqlReadCustomerTests\obj\Debug\SqlReadCustomerTests.pdb
